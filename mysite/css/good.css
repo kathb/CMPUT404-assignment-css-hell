@@ -1,10 +1,88 @@
-.rectangle {
-	color: white;
-	background: blue;
-	border: 5px solid black;
+.header {
 	text-align: center;
+	font-family: Verdana, Georgia;
+	color: white;
+	background-image: url(http://fc05.deviantart.net/fs71/f/2010/141/6/7/Bokeh_Blue_by_OmbraSilente.jpg);
+	border: 7px solid #333366;
+	text-align: center;
+	border-radius: 10px;
+	font-size: 160%;
+}
+
+.title {
+	margin-top: 3%; 
+	color: #330066;
+	font-family: Georgia;
+	font-weight: bold;
+	padding-top: 5px;
+	font-size: 150%;
+}
+
+.p1 {
+
+}
+.p2 {
+
+}
+.p3 {
+
+}
+.sidebar {
+	float: right;
+	color: white;
+	background: #333366;
+	border: 7px solid #333366;
+	margin-top: 2%;
+	width: 20%;
+	border-radius: 5px;
+	padding-top: 1%;
+	padding-left: 1%;
+	padding-bottom: 10%;
+	line-height: 130%;
+	text-align: left;
+}
+#sidebar_title {
+	font-family: Georgia;
+	font-weight: bold;
+	text-align: left;
+	padding-left: 10%;
+}
+
+#profile_photo {
+	background-image: url(https://s-media-cache-ak0.pinimg.com/236x/d3/e9/fc/d3e9fc222c9bd0d12e0ff126acf7df00.jpg);
+	height: 10em;
+	width: 10em;
+	background-size: cover;
+	border-radius: 50%;
+	background-repeat: no-repeat;
+	float: left;
+	margin-right: 1%;
+	margin-left: 1%;
+}
+
+#photo2 {
+	background-image: url(http://edge.alluremedia.com.au/m/l/2015/06/CodingSnippet.jpg);
+	height: 10em;
+	width: 10em;
+	background-size: cover;
+	border-radius: 50%;
+	background-repeat: no-repeat;
+	float: right;
+	margin-right: 2%;
+}
+
+#photo3 {
+	background-image: url(http://www.oneequalworld.com/wp-content/uploads/2013/03/shutterstock_94478944-1-copy.jpg);
+	height: 10em;
+	width: 10em;
+	background-size: cover;
+	border-radius: 50%;
+	background-repeat: no-repeat;
+	float: left;
+	margin-left: 1%;
 }
 
 body {
-	background-color: pink;
+	background-color: white;
+	font-family: Verdana, sans-serif;
 }
