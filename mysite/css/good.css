@@ -1,23 +1,47 @@
 .header {
 	text-align: center;
-	font-family: Verdana, Georgia;
+	font-family: Helvetica, Georgia;
 	color: white;
-	background-image: url(http://fc05.deviantart.net/fs71/f/2010/141/6/7/Bokeh_Blue_by_OmbraSilente.jpg);
-	border: 7px solid #333366;
+	background-image: url(https://wallpaperspal.com/wp-content/uploads/Ultra-HD-Purple-Wallpaper-Gradient-Background.jpg);
+	height: 6em;
+	line-height: 6em;
 	text-align: center;
 	border-radius: 10px;
 	font-size: 160%;
+	margin-top: -1em;
+	border-bottom: 15px solid #383838 ;
 }
 
 .title {
+
+}
+
+h2 {
+	position: relative;
 	margin-top: 3%; 
-	color: #330066;
-	font-family: Georgia;
+	color: black;
+	opacity: 0.9;
+	font-family: Helvetica, Georgia;
 	font-weight: bold;
 	padding-top: 5px;
 	font-size: 150%;
+	border-bottom: 2px solid #505050 ;
+	padding: 10px;
+	margin-right: 25%;
+	margin-left: 5%;
+	z-index: -1;
 }
 
+#about_me {
+	margin-left: 15%;
+}
+
+#history {
+	margin-right: 38%;
+}
+#offer {
+	margin-left: 15%;
+}
 .p1 {
 
 }
@@ -27,11 +51,16 @@
 .p3 {
 
 }
+
+p {
+	padding-left: 5%;
+}
+
 .sidebar {
 	float: right;
-	color: white;
-	background: #333366;
-	border: 7px solid #333366;
+	color: black;
+	background:  	#B8B8B8;
+	border: 7px solid  	#B8B8B8;
 	margin-top: 2%;
 	width: 20%;
 	border-radius: 5px;
@@ -42,10 +71,12 @@
 	text-align: left;
 }
 #sidebar_title {
-	font-family: Georgia;
+	font-family: Helvetica, Georgia;
 	font-weight: bold;
 	text-align: left;
 	padding-left: 10%;
+	border-bottom: none;
+	z-index: 0;
 }
 
 #profile_photo {
