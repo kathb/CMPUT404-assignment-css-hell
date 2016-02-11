@@ -1,0 +1,10 @@
+.rectangle {
+	color: white;
+	background: blue;
+	border: 5px solid black;
+	text-align: center;
+}
+
+body {
+	background-color: pink;
+}
