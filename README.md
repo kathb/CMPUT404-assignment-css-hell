@@ -37,6 +37,8 @@ Animation code for .header adapted from http://www.w3schools.com/css/css3_animat
 
 [Kittens](https://www.royalcanin.com/~/media/Royal-Canin/Content/persian-kittens.ashx) from Royal Canin
 
+[Kangaroo](http://cardiostimulator.tumblr.com/post/44892610243) source Cardiostimular.tumblr.com
+
 License/Copyright
 =================
 
