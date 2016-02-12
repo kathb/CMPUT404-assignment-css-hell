@@ -59,7 +59,8 @@ p {
 .sidebar {
 	float: right;
 	color: black;
-	background:  	#FFFF00;
+	background:  	url(http://media0.giphy.com/media/AB3hABP5d6Lx6/giphy.gif);
+	background-size: 100%;
 	border: 7px solid  	#FFFF00;
 	margin-top: 2%;
 	width: 20%;
@@ -117,5 +118,7 @@ p {
 
 body {
 	background-color: white;
+	background: url(http://pre01.deviantart.net/52f4/th/pre/f/2015/329/a/d/neko_atsume___tubbs_cat_vector_by_elexisrox-d9hzoc1.png);
+	background-size: 100%;
 	font-family: Comic Sans MS, sans-serif;
 }
